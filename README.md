@@ -6,7 +6,7 @@ the HTML File i believe that there will be no error since it is just a Simple Pr
 
 To test it:
 
-!. Download the HTML FILE
+1. Download the HTML FILE
 2. Go to your Download Directory and Open it with your browser.
 
 To see the sourcecode:
