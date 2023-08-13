@@ -12,4 +12,4 @@ To test it:
 To see the sourcecode:
 
 1. Download the HTML FILE
-2. Open it with your VSCODE or IDE that you are preffer to use
+2. Open it with your VSCODE or any IDE that you prefer to use.
